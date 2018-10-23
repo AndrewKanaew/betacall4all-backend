@@ -1,0 +1,18 @@
+{
+    "name": "leitop2k/betacall4all.ru",
+    "authors": [
+        {
+            "name": "AndrewKanaew",
+            "email": "andrewrook-media@yandex.ru"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.11",
+        "illuminate/database": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}

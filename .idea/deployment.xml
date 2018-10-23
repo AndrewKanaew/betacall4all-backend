@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="call.betacall4all.ru">
+    <serverData>
+      <paths name="call.betacall4all.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/call.betacall4all.ru" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/var/www/call.betacall4all.ru/vendor" />
+            <excludedPath path="/var/www/call.betacall4all.ru/call4all" />
+            <excludedPath path="/var/www/call.betacall4all.ru/bower_components" />
+            <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
+            <excludedPath local="true" path="$PROJECT_DIR$/call4all" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bower_components" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
